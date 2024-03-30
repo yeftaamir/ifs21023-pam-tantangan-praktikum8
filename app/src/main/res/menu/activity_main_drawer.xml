@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_all_inbox"
+            android:icon="@drawable/email_1"
+            android:title="Semua Kotak Masuk" />
+        <item
+            android:id="@+id/nav_inbox"
+            android:icon="@drawable/inbox"
+            android:title="Utama" />
+        <item
+            android:id="@+id/nav_promotions"
+            android:icon="@drawable/tag_svgrepo_com"
+            android:title="Promosi" />
+
+        <item
+            android:id="@+id/nav_social"
+            android:icon="@drawable/people"
+            android:title="Social" />
+        <item
+            android:id="@+id/nav_terkirim"
+            android:icon="@drawable/sent"
+            android:title="Terkirim" />
+        <item
+            android:id="@+id/nav_starred"
+            android:icon="@drawable/star"
+            android:title="Pesan Berbintang" />
+        <item
+            android:id="@+id/nav_sampah"
+            android:icon="@drawable/sampah"
+            android:title="Sampah" />
+    </group>
+</menu>

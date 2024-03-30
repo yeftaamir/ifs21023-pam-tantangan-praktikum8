@@ -1,0 +1,52 @@
+<resources>
+    <string name="app_name">Gmail Duplikasi</string>
+    <string name="info_pengirim">Nama Pengirim </string>
+    <string name="info_subjek">Subject</string>
+    <string name="info_icon">Icon Pengirim</string>
+    <string name="info_text">Text Isi</string>
+
+    <string-array name="icon_email">
+        <item>@drawable/orang1</item>
+        <item>@drawable/orang2</item>
+        <item>@drawable/orang3</item>
+        <item>@drawable/orang4</item>
+        <item>@drawable/orang5</item>
+        <item>@drawable/orang6</item>
+        <item>@drawable/orang7</item>
+        <item>@drawable/orang8</item>
+    </string-array>
+
+    <string-array name="subjek_email">
+        <item>Subjek Orang 1</item>
+        <item>Subjek Orang 2</item>
+        <item>Subjek Orang 3</item>
+        <item>Subjek Orang 4</item>
+        <item>Subjek Orang 5</item>
+        <item>Subjek Orang 6</item>
+        <item>Subjek Orang 7</item>
+        <item>Subjek Orang 8</item>
+    </string-array>
+
+    <string-array name="pengirim_email">
+        <item>Si Pengirim 1</item>
+        <item>Si Pengirim 2</item>
+        <item>Si Pengirim 3</item>
+        <item>Si Pengirim 4</item>
+        <item>Si Pengirim 5</item>
+        <item>Si Pengirim 6</item>
+        <item>Si Pengirim 7</item>
+        <item>Si Pengirim 8</item>
+    </string-array>
+
+    <string-array name="text_isi">
+        <item>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</item>
+        <item>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</item>
+        <item>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</item>
+        <item>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</item>
+        <item>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</item>
+        <item>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</item>
+        <item>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</item>
+        <item>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</item>
+
+    </string-array>
+</resources>
